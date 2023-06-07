@@ -1,0 +1,9 @@
+{
+	"name": "aopontan2ADF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f2dc3d1f-c8d7-44b8-b0a2-38f9d116fce9",
+		"tenantId": "4411bf6d-e0c8-4e38-b403-cc1e9be06560"
+	}
+}
